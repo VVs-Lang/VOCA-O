@@ -1,5 +1,5 @@
-<h1> Atividade envolvendo HTML </h1>
-<h2> Curso código da transformação</h2>
+<h1> Atividade envolvendo HTML Curso código da transformação</h1>
+
 <p> Neste pequeno projeto eu usei
   
 •Linguagem HTML;
